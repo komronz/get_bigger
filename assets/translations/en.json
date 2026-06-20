@@ -1,0 +1,134 @@
+{
+  "home": {
+    "tagline": "Merge animals to evolve them!",
+    "play": "Play Now",
+    "collection": "Collection",
+    "settings": "Settings"
+  },
+  "game": {
+    "subtitle": "Merge & Evolve Animals",
+    "score": "SCORE",
+    "best": "BEST",
+    "goal": "Goal:",
+    "golden_dragon": "Golden Dragon",
+    "hint_swipe": "Swipe to merge animals and evolve them!",
+    "hint_swap": "Tap the first tile, then the second to swap",
+    "hint_delete": "Tap any tile to delete it from the board",
+    "tooltip_back": "Back",
+    "tooltip_info": "Traps & Tips",
+    "tooltip_new_game": "New Game",
+    "keep_playing": "Keep Playing",
+    "new_game_dialog": {
+      "title": "New Game?",
+      "content": "Your current progress will be lost.",
+      "cancel": "Cancel",
+      "confirm": "Reset"
+    }
+  },
+  "game_over": {
+    "win_title": "You Won!",
+    "lose_title": "Game Over",
+    "win_subtitle": "You summoned the Golden Dragon! 🐉",
+    "lose_subtitle": "No more moves available.",
+    "play_again": "Play Again"
+  },
+  "discovery": {
+    "legendary": "✨ LEGENDARY ✨",
+    "new_animal": "🎉 NEW ANIMAL!",
+    "level_unlocked": "Level {level} unlocked!",
+    "awesome": "Awesome!"
+  },
+  "collection": {
+    "title": "My Collection",
+    "discovered": "Animals Discovered"
+  },
+  "settings": {
+    "title": "Settings",
+    "section_audio": "Audio",
+    "sound_effects": "Sound Effects",
+    "sound_effects_sub": "Play sounds on merge and actions",
+    "section_language": "Language",
+    "language_sub": "Choose app language",
+    "section_about": "About",
+    "version": "Version",
+    "animals": "Animals",
+    "animals_count": "25 species"
+  },
+  "power_up_bar": {
+    "undo": "Undo",
+    "swap": "Swap",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "hint_swap": "🔀 Tap two tiles to swap",
+    "hint_delete": "🗑️ Tap a tile to delete"
+  },
+  "traps": {
+    "title": "Traps & Special Tiles",
+    "section_traps": "Traps",
+    "section_special": "Special Animals",
+    "section_powerups": "Power-Ups",
+    "rock": {
+      "name": "Rock",
+      "badge": "Late-game",
+      "desc": "An immovable boulder that blocks movement in its row and column. Cannot be merged with. Use the Delete power-up to remove it.",
+      "tip1": "Appears once your highest tile reaches level 10+",
+      "tip2": "Splits a row into two independent merge zones",
+      "tip3": "Only the 🗑️ Delete power-up can remove it"
+    },
+    "web": {
+      "name": "Spider Web",
+      "badge": "Mid-game",
+      "desc": "Traps an animal in a sticky web for 3 turns. The tile is stuck in place and acts as a blocker — it cannot slide or be merged until the web dissolves.",
+      "tip1": "Appears once your highest tile reaches level 5+",
+      "tip2": "Turns remaining shown by the 🕸️ overlay",
+      "tip3": "Counts down every swipe — wait it out or plan around it",
+      "tip4": "Merging is blocked while the web is active"
+    },
+    "golden": {
+      "name": "Golden Animal",
+      "badge": "Wildcard",
+      "desc": "A magical golden animal that can merge with any tile regardless of level. Merges grant 2× score.",
+      "tip1": "Merges with any adjacent tile — use it on your highest!",
+      "tip2": "Produces 2× score on every merge",
+      "tip3": "Identified by the gold glow and ✨ icon"
+    },
+    "lucky": {
+      "name": "Lucky Animal",
+      "badge": "2× Score",
+      "desc": "A lucky animal that grants double score when merged. Has a 10% chance to award a random power-up as a bonus.",
+      "tip1": "Always gives 2× score on the merge",
+      "tip2": "10% chance for a free power-up drop",
+      "tip3": "Identified by the green glow and 🍀 icon"
+    },
+    "sleeping": {
+      "name": "Sleeping Animal",
+      "badge": "Stunned 1 turn",
+      "desc": "An animal that fell asleep! It is stuck for 1 turn and cannot slide or merge until it wakes up.",
+      "tip1": "Stuck for exactly 1 swipe, then behaves normally",
+      "tip2": "Plan your next move around it — do not waste a power-up",
+      "tip3": "Identified by the \"z z z\" overlay"
+    },
+    "undo": {
+      "name": "Undo",
+      "badge": "Rewind",
+      "desc": "Reverts the board to its state before your last swipe. Up to 5 moves can be stored in history.",
+      "tip1": "Does not cost a life",
+      "tip2": "Earn more by discovering Beetle (lv 4) and Mouse (lv 5)"
+    },
+    "swap": {
+      "name": "Swap",
+      "badge": "Two taps",
+      "desc": "Tap two tiles to swap their positions. Useful for setting up merges or moving a trap out of the way.",
+      "tip1": "Works on any two tiles including rocks",
+      "tip2": "Earn more by discovering Rabbit (lv 7) and Cat (lv 8)"
+    },
+    "delete": {
+      "name": "Delete",
+      "badge": "One tap",
+      "desc": "Tap any tile to remove it from the board entirely. The only way to permanently remove a Rock.",
+      "tip1": "Only way to remove Rocks",
+      "tip2": "Can also clear a stuck tile instantly",
+      "tip3": "Earn more by discovering Dog (lv 9) and Fox (lv 10)"
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "home": {
+    "tagline": "Hayvonlarni birlashtiring va rivojlantiring!",
+    "play": "O'ynash",
+    "collection": "Kolleksiya",
+    "settings": "Sozlamalar"
+  },
+  "game": {
+    "subtitle": "Hayvonlarni birlashtiring va rivojlantiring",
+    "score": "BALL",
+    "best": "REKORD",
+    "goal": "Maqsad:",
+    "golden_dragon": "Oltin Ajdaho",
+    "hint_swipe": "Hayvonlarni birlashtirish uchun suring!",
+    "hint_swap": "Birinchi, so'ng ikkinchi katakni bosing",
+    "hint_delete": "O'chirish uchun istalgan katakni bosing",
+    "tooltip_back": "Orqaga",
+    "tooltip_info": "Tuzonlar va maslahatlar",
+    "tooltip_new_game": "Yangi o'yin",
+    "keep_playing": "Davom etish",
+    "new_game_dialog": {
+      "title": "Yangi o'yin?",
+      "content": "Joriy taraqqiyotingiz yo'qoladi.",
+      "cancel": "Bekor qilish",
+      "confirm": "Qayta boshlash"
+    }
+  },
+  "game_over": {
+    "win_title": "G'alaba!",
+    "lose_title": "O'yin tugadi",
+    "win_subtitle": "Siz Oltin Ajdahoni chaqirdingiz! 🐉",
+    "lose_subtitle": "Harakat qilish imkoni qolmadi.",
+    "play_again": "Qayta o'ynash"
+  },
+  "discovery": {
+    "legendary": "✨ AFSONAVIY ✨",
+    "new_animal": "🎉 YANGI HAYVON!",
+    "level_unlocked": "{level}-daraja ochildi!",
+    "awesome": "Ajoyib!"
+  },
+  "collection": {
+    "title": "Mening kolleksiyam",
+    "discovered": "Topilgan hayvonlar"
+  },
+  "settings": {
+    "title": "Sozlamalar",
+    "section_audio": "Tovush",
+    "sound_effects": "Ovoz effektlari",
+    "sound_effects_sub": "Birlashtirishda va harakatlarda ovoz ijro etish",
+    "section_language": "Til",
+    "language_sub": "Ilova tilini tanlang",
+    "section_about": "Dastur haqida",
+    "version": "Versiya",
+    "animals": "Hayvonlar",
+    "animals_count": "25 tur"
+  },
+  "power_up_bar": {
+    "undo": "Orqaga",
+    "swap": "Almashtirish",
+    "delete": "O'chirish",
+    "cancel": "Bekor",
+    "hint_swap": "🔀 Ikki katakni bosing",
+    "hint_delete": "🗑️ Katakni bosing va o'chiring"
+  },
+  "traps": {
+    "title": "Tuzonlar va maxsus kataklar",
+    "section_traps": "Tuzonlar",
+    "section_special": "Maxsus hayvonlar",
+    "section_powerups": "Kuchaytirishlar",
+    "rock": {
+      "name": "Tosh",
+      "badge": "Kech o'yin",
+      "desc": "Harakatlanmaydigan to'siq. Birlashtirib bo'lmaydi. Olib tashlash uchun O'chirish kuchaytirishidan foydalaning.",
+      "tip1": "Eng yuqori darajangiz 10+ ga yetganda paydo bo'ladi",
+      "tip2": "Qatorni ikki mustaqil zonaga bo'ladi",
+      "tip3": "Faqat 🗑️ O'chirish kuchaytirishi uni olib tashlaydi"
+    },
+    "web": {
+      "name": "O'rgimchak to'ri",
+      "badge": "O'rta o'yin",
+      "desc": "Hayvonni 3 navbat davomida to'rda ushlab turadi. Katak o'z joyida qoladi va to'r erigunga qadar sirpanib yoki birlashib olmaydi.",
+      "tip1": "Darajangiz 5+ ga yetganda paydo bo'ladi",
+      "tip2": "Qolgan navbatlar 🕸️ belgisi orqali ko'rsatiladi",
+      "tip3": "Har bir surishda kamayadl — kuting yoki atrofini rejalashtiring",
+      "tip4": "To'r faol bo'lganda birlashtirib bo'lmaydi"
+    },
+    "golden": {
+      "name": "Oltin hayvon",
+      "badge": "Universal",
+      "desc": "Darajasidan qat'iy nazar istalgan katak bilan birlasha oladigan sehrli oltin hayvon. Birlashtirishda 2× ball beriladi.",
+      "tip1": "Har qanday qo'shni katak bilan birlashadi — eng yuqorisiga ishlating!",
+      "tip2": "Har bir birlashtirishda 2× ball beradi",
+      "tip3": "Oltin rangi va ✨ belgisi bilan farqlanadi"
+    },
+    "lucky": {
+      "name": "Baxtli hayvon",
+      "badge": "2× Ball",
+      "desc": "Birlashtirilganda ikki barobar ball beradigan baxtli hayvon. 10% ehtimol bilan qo'shimcha kuchaytirish sovg'a qiladi.",
+      "tip1": "Doimo 2× ball beradi",
+      "tip2": "10% ehtimol bilan bepul kuchaytirish",
+      "tip3": "Yashil rangi va 🍀 belgisi bilan farqlanadi"
+    },
+    "sleeping": {
+      "name": "Uxlayotgan hayvon",
+      "badge": "1 navbat o'tkazib yuboradi",
+      "desc": "Uxlab qolgan hayvon! U 1 navbat davomida qimirlay olmaydi va uyg'ongunga qadar sirpanib yoki birlashib olmaydi.",
+      "tip1": "Aynan 1 surishga qotib qoladi, keyin odatiy ishlaydi",
+      "tip2": "Atrofini rejalashtiring — kuchaytirish sarflamang",
+      "tip3": "\"z z z\" belgisi bilan farqlanadi"
+    },
+    "undo": {
+      "name": "Orqaga qaytarish",
+      "badge": "O'chirib qo'yish",
+      "desc": "Taxtani oxirgi surishdan oldingi holatiga qaytaradi. Tarixda 5 tagacha harakat saqlanadi.",
+      "tip1": "Hayot sarflamaydi",
+      "tip2": "Qo'ng'iz (4-daraja) va Sichqon (5-daraja) kashf etish orqali ko'proq oling"
+    },
+    "swap": {
+      "name": "Almashtirish",
+      "badge": "Ikki bosish",
+      "desc": "Ikki katakni joyini almashtirish uchun bosing. Birlashtirishni sozlash yoki tuzonni chetga surishda foydali.",
+      "tip1": "Toshlar bilan ham ishlaydi",
+      "tip2": "Quyon (7-daraja) va Mushuk (8-daraja) kashf etish orqali ko'proq oling"
+    },
+    "delete": {
+      "name": "O'chirish",
+      "badge": "Bir bosish",
+      "desc": "Istalgan katakni taxtadan butunlay o'chirish uchun bosing. Toshni olib tashlashning yagona yo'li.",
+      "tip1": "Toshni olib tashlashning yagona usuli",
+      "tip2": "Qotib qolgan katakni darhol tozalash mumkin",
+      "tip3": "It (9-daraja) va Tulki (10-daraja) kashf etish orqali ko'proq oling"
+    }
+  }
+}

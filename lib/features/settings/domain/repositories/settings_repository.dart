@@ -1,0 +1,10 @@
+// lib/features/settings/domain/repositories/settings_repository.dart
+
+import 'package:dartz/dartz.dart';
+import '../../../../core/errors/failures.dart';
+import '../entities/settings_entity.dart';
+
+abstract class SettingsRepository {
+  Future<Either<Failure, SettingsEntity>> getSettings();
+  Future<Either<Failure, Unit>> saveSettings(SettingsEntity settings);
+}
